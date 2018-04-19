@@ -1,0 +1,22 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "A simple node express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ang-minkyii/node-web-server.git"
+  },
+  "author": "Andy Ang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ang-minkyii/node-web-server/issues"
+  },
+  "homepage": "https://github.com/ang-minkyii/node-web-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
